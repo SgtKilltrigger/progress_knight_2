@@ -1,5 +1,3 @@
-# Progress Knight Quest
+# Progress Knight Quest Mod
 
-A continuation of Progress Knight 2.0. Contains 5 prestige layers with various unique mechanics.
-
-PRs which fix bugs are welcome :)
+Atempt at rebalancing, adding more Content and perhaps changing the Theme
